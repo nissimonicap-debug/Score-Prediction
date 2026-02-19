@@ -16,8 +16,8 @@ Target:
 Linear Regression
 
 ## Results
-MAE: ___
-R2 Score: ___
+MAE:0.9390093654838516
+R2 Score: 0.9970604987119472
 
 ## Conclusion
 Study hours and attendance are the most important factors influencing exam performance.
